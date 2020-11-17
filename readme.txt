@@ -48,3 +48,4 @@ TROUBLESHOOTING
 
 -If AI is confusing Red and Orange gems or Yellow and white gems, 
    ensure no programs are running that could interfere with display settings like redshift or f.lux
+   
